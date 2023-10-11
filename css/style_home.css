@@ -1,0 +1,6 @@
+.flexContainer {
+  display: flex;
+  width: 33%;
+  margin: 35px;
+  padding: 35px;
+ }
